@@ -1,9 +1,10 @@
 不是迅雷会员请无视（只针对被菊爆河蟹的资源）尊享版最新版本适用，其他版本没有测试过理论可行
 
 dll戳这里下载
-https://github.com/mengskysama/XunLeiMakeDie/raw/master/sqlite3.dll
 
-http://blog.mengsky.net/test/sqlite3.dll
+载点1：https://github.com/mengskysama/XunLeiMakeDie/raw/master/sqlite3.dll
+
+载点2：http://blog.mengsky.net/test/sqlite3.dll
 
 XLMakeDie233
 ===========
