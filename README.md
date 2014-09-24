@@ -2,7 +2,8 @@
 
 dll戳这里下载
 https://github.com/mengskysama/XunLeiMakeDie/raw/master/sqlite3.dll
-blog.mengsky.net/test/sqlite3.dll
+
+http://blog.mengsky.net/test/sqlite3.dll
 
 XLMakeDie233
 ===========
