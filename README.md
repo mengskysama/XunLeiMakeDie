@@ -1,5 +1,14 @@
 不是迅雷会员请无视（只针对被菊爆河蟹的资源）尊享版最新版本适用，其他版本没有测试过理论可行
 
+
+
+一个更好的版本
+http://bbs.9baka.com/read.php?tid=457046
+
+
+
+
+
 dll戳这里下载
 
 载点1：https://github.com/mengskysama/XunLeiMakeDie/raw/master/sqlite3.dll
