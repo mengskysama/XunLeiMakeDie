@@ -26,22 +26,4 @@ XLMakeDie233
 
 5.准备好纸巾
 
-
-
-
-------
-
-求Lua作死达人字节码作死
-
-http://blog.mengsky.net/525.html
-
-(内部人员当没看见吧
-
-https://github.com/lkrb/xl-superspeed-hacker
-
-http://www.pc426.com/thread-69113-1-1.html
-
-
-
-
-梅可代药不能停，迅雷食我大X
+*6.杀毒软件可能会报毒，添加到白名单即可
